@@ -402,5 +402,7 @@ if __name__ == '__main__':
     print(f"Stats: http://localhost:5000/api/stats")
     print(f"Restart: POST to http://localhost:5000/api/restart")
     print("=" * 60)
-port = int(os.environ.get('PORT', 5000))
-app.run(debug=False, port=port, host='0.0.0.0')
+    
+    # Use dynamic port for Railway deployment
+    port = int(os.environ.get('PORT', 5000))
+    app.run(debug=False, port=port, host='0.0.0.0')
