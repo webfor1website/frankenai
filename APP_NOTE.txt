@@ -1,0 +1,39 @@
+═══════════════════════════════════════════════════════════
+    ⚠️ IMPORTANT: app_v13.py FILE ⚠️
+═══════════════════════════════════════════════════════════
+
+Due to size limits, I need to provide you with a way to get app_v13.py
+
+OPTION 1 (Easiest): Use Your v12 App
+────────────────────────────────────────────────────────────
+
+Copy your working app_v12.py:
+
+copy C:\Users\Wolverine\Desktop\CUsersWolverineFrankenAI_v12\app_v12.py C:\Users\Wolverine\Desktop\FrankenAI_v13\app_v13.py
+
+The v13 modules (detection.py, word_count.py, routing.py) will 
+work alongside it. v13 improvements activate automatically when
+the modules are imported.
+
+═══════════════════════════════════════════════════════════
+
+OPTION 2: I'll Create Minimal Working App
+────────────────────────────────────────────────────────────
+
+Tell me and I'll create a streamlined app_v13.py (500 lines)
+that demonstrates the v13 improvements in a simplified pipeline.
+
+Won't have ALL features but will show:
+- Smart detection working
+- Word count enforcement
+- Adaptive passes
+- Cost savings
+
+═══════════════════════════════════════════════════════════
+
+WHICH DO YOU WANT?
+
+A) Copy v12 app (keeps all features, just add imports)
+B) New minimal app (I'll create it, simpler but complete)
+
+═══════════════════════════════════════════════════════════
